@@ -31,7 +31,7 @@
 
 [![Google Cloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Amazon](https://img.shields.io/badge/-Amazon-black?style=flat&logo=amazon&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![WHM](https://img.shields.io/badge/-whm-black?style=flat&logo=whm&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![GoDaddy](https://img.shields.io/badge/-GoDaddy-black?style=flat&logo=godaddy&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
