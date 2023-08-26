@@ -18,6 +18,14 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+#### Public Cloud
+
+[![Google Cloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Amazon](https://img.shields.io/badge/-Amazon-black?style=flat&logo=amazon&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![GoDaddy](https://img.shields.io/badge/-GoDaddy-black?style=flat&logo=godaddy&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+
 #### DevOps 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
@@ -26,14 +34,6 @@
 [![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-
-#### Public Cloud
-
-[![Google Cloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![Amazon](https://img.shields.io/badge/-Amazon-black?style=flat&logo=amazon&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![GoDaddy](https://img.shields.io/badge/-GoDaddy-black?style=flat&logo=godaddy&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
 #### OS
 
