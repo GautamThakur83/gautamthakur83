@@ -12,7 +12,7 @@
 ✍️ &nbsp; I pursue Study New Teachnologies and Blog Writing as hobbies/side hustles in my free time.\
 💬 &nbsp;Feel free to reach out to me for Google Cloud Infrastructure-related issues and LAMP related challenges.\
 ✉️ &nbsp;You can shoot me an email at gautam@gautamthakur.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]([https://www.adityavsingh.com/resume.html](https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -45,7 +45,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://gatamthakur.in"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://gatamthakur.in"><img src="https://img.shields.io/badge/-gatamthakur.in-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/gautamthakur1983/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gautam@gautamthakur.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/gautamthakur"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
