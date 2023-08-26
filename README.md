@@ -13,21 +13,25 @@
 💬 &nbsp;Feel free to reach out to me for Google Cloud Infrastructure-related issues and LAMP related challenges.\
 ✉️ &nbsp;You can shoot me an email at gautam@gautamthakur.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
-📄 &nbsp;Please have a look at my [Resume]((https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
  
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![GCP](https://img.shields.io/badge/-GCP-black?style=flat&logo=gcp&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=aws&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=security&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
 
 
