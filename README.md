@@ -12,7 +12,7 @@
 ✍️ &nbsp; I pursue Study New Teachnologies and Blog Writing as hobbies/side hustles in my free time.\
 💬 &nbsp;Feel free to reach out to me for Google Cloud Infrastructure-related issues and LAMP related challenges.\
 ✉️ &nbsp;You can shoot me an email at gautam@gautamthakur.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume]([https://www.adityavsingh.com/resume.html](https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume]((https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf)) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
