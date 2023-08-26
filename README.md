@@ -17,23 +17,36 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
- 
+
+#### DevOps 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
+#### OS
+
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![macOS](https://img.shields.io/badge/-macOS-blue?style=flat&logo=macos&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+
+#### Public Cloud
+
 [![Google Cloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Amazon](https://img.shields.io/badge/-Amazon-black?style=flat&logo=amazon&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![WHM](https://img.shields.io/badge/-WHM-black?style=flat&logo=whm&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=azure&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+
+### Other Speciality
 [![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=security&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-
-
+[![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat&logo=lamp&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Migration](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
 ### 🤝🏻 &nbsp;Connect with Me
 
