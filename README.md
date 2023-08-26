@@ -40,7 +40,7 @@
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![macOS](https://img.shields.io/badge/-macOS-blue?style=flat&logo=macos&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Mac](https://img.shields.io/badge/-mac-blue?style=flat&logo=mac&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
 #### Other Speciality
 [![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=security&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
