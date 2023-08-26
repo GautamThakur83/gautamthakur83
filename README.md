@@ -23,6 +23,11 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
