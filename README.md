@@ -43,9 +43,9 @@
 
 #### Other Speciality
 [![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=security&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat&logo=lamp&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![LAMP](https://img.shields.io/badge/-Apache-black?style=flat&logo=apache&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![Migration](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Migrations](https://img.shields.io/badge/-Migrations-black?style=flat&logo=migrations&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
 
 ### ⚙️ &nbsp;GitHub Analytics
