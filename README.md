@@ -42,7 +42,7 @@
 [![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Azure](https://img.shields.io/badge/-Azure-black?style=flat&logo=azure&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
-### Other Speciality
+#### Other Speciality
 [![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=security&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat&logo=lamp&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
