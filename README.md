@@ -50,6 +50,14 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Cloud Migrations](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
+### Certifications
+<p align="center">
+	<img title="HCDL" alt="Cloud Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width="70" height="40" />
+	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40" />
+	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" />
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
+</p>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
