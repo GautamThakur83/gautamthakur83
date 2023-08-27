@@ -26,7 +26,7 @@
 [![cPanel](https://img.shields.io/badge/-cPanel-black?style=flat&logo=cpanel&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-black?style=flat&logo=digitalocean&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
-#### DevOps 
+#### 🤓 DevOps 
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat&logo=terraform&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
@@ -36,13 +36,13 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
-#### OS
+#### ⭐ OS
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Apple](https://img.shields.io/badge/-Apple-blue?style=flat&logo=apple&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
-#### Other Speciality
+#### 👍 Other Speciality
 [![Security](https://img.shields.io/badge/-Security-blue?style=flat&logo=cloudsecurity&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![LAMP](https://img.shields.io/badge/-LAMP-black?style=flat&logo=apache&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![NGINX](https://img.shields.io/badge/-Nginx-black?style=flat&logo=nginx&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
