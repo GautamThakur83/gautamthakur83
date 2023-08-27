@@ -71,6 +71,6 @@
 </p>
 
 -----
-Credits: [AVS1508](https://github.com/GautamThakur83)
+Credits: [Gautam Thakur](https://github.com/GautamThakur83)
 
 Last Edited on: 26/08/2023
