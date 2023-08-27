@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! 👋 I'm Gautam Thakur</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Gautam Thakur -->
-
+---
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and learn things.\
@@ -16,7 +16,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-
+---
 ### 🛠 &nbsp;Tech Stack
 
 #### ☁️ Public Cloud
@@ -52,7 +52,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Cloud Migrations](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
-
+---
 
 ### 🏆 My Certifications
 <p align="center"> 
@@ -62,6 +62,7 @@
 	<img title="PCNE" alt="Professional Cloud Network Engineer" src="https://templates.images.credential.net/16590188739562332286578075626342.png" width="180" height="180" />
 </p>
 
+----
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -72,6 +73,7 @@
 </a>
 </p>
 
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -82,6 +84,8 @@
 <a href="https://instagram.com/gautamthakur"><img src="https://img.shields.io/badge/-@gautamthakur-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/gautamthakur786"><img src="https://img.shields.io/badge/-@gautamthakur786-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
+
+---
 
 <br />
 
