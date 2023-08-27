@@ -70,7 +70,14 @@
 <a href="https://facebook.com/gautamthakur786"><img src="https://img.shields.io/badge/-@gautamthakur786-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+<br />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/GautamThakur83/count.svg" />
+</p>
+
 -----
 Credits: [Gautam Thakur](https://github.com/GautamThakur83)
 
-Last Edited on: 26/08/2023
+Last Edited on: 27/08/2023
