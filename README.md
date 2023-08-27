@@ -32,7 +32,8 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=ansible&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat&logo=jenkins&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
 #### OS
