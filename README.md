@@ -36,7 +36,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 
-#### ⭐ OS
+#### 💻 OS
 
 [![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Windows](https://img.shields.io/badge/-Windows-blue?style=flat&logo=windows&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
