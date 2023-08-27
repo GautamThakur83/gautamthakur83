@@ -52,7 +52,8 @@
 
 ### 😄 My Certifications
 <p align="center">
-	<img title="CDL" alt="Cloud Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width="180" height="180" />
+	[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+	<img title="CDL" alt="Cloud Digital Leader" (src="https://templates.images.credential.net/16601179376516142147983414073734.png") width="180" height="180" /> (https://www.youtube.com/watch?v=SDkAGkd4NLc)
 	<img title="PCA" alt="Professional Cloud Architect" src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="180" height="180" />
 	<img title="PCSE" alt="Professional Cloud Security Engineer" src="https://templates.images.credential.net/16590189116921664807425410566136.png" width="180" height="180" />
 	<img title="PCNE" alt="Professional Cloud Network Engineer" src="https://templates.images.credential.net/16590188739562332286578075626342.png" width="180" height="180" />
