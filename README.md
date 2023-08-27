@@ -51,7 +51,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Cloud Migrations](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
-### 😄 My Certifications
+### 🏆 My Certifications
 <p align="center"> 
 	<img title="CDL" alt="Cloud Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width="180" height="180" />
 	<img title="PCA" alt="Professional Cloud Architect" src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="180" height="180" />
