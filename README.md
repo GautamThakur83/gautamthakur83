@@ -18,7 +18,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-#### Public Cloud
+#### ☁️ Public Cloud
 
 [![Google Cloud](https://img.shields.io/badge/-GoogleCloud-black?style=flat&logo=googlecloud&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 [![Amazon](https://img.shields.io/badge/-Amazon-black?style=flat&logo=amazon&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
