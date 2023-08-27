@@ -16,6 +16,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 ### 🛠 &nbsp;Tech Stack
 
 #### ☁️ Public Cloud
@@ -51,6 +52,8 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83)
 [![Cloud Migrations](https://img.shields.io/badge/-Migration-black?style=flat&logo=migration&link=https://github.com/GautamThakur83)](https://github.com/GautamThakur83) 
 
+
+
 ### 🏆 My Certifications
 <p align="center"> 
 	<img title="CDL" alt="Cloud Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width="180" height="180" />
@@ -68,6 +71,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GautamThakur83&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
