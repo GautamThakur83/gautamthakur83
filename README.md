@@ -52,8 +52,8 @@
 
 ### 😄 My Certifications
 <p align="center">
-	[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-	<img title="CDL" alt="Cloud Digital Leader" (src="https://templates.images.credential.net/16601179376516142147983414073734.png") width="180" height="180" /> (https://www.youtube.com/watch?v=SDkAGkd4NLc)
+	[![Matrix SVG](https://templates.images.credential.net/16601179376516142147983414073734.png)](https://www.credential.net/abc338fe-1fc7-4206-bb34-b1cda4ff248f?_ga=2.115807238.1458793815.1693107238-115281925.1693107238&_gl=1*1nokz*_ga*MTE1MjgxOTI1LjE2OTMxMDcyMzg.*_ga_FSDJZHHBH0*MTY5MzEwNzIzNy4xLjEuMTY5MzEwODExMS4wLjAuMA..) 
+	<img title="CDL" alt="Cloud Digital Leader" src="https://templates.images.credential.net/16601179376516142147983414073734.png" width="180" height="180" />
 	<img title="PCA" alt="Professional Cloud Architect" src="https://templates.images.credential.net/16590181582433100721069374350922.png" width="180" height="180" />
 	<img title="PCSE" alt="Professional Cloud Security Engineer" src="https://templates.images.credential.net/16590189116921664807425410566136.png" width="180" height="180" />
 	<img title="PCNE" alt="Professional Cloud Network Engineer" src="https://templates.images.credential.net/16590188739562332286578075626342.png" width="180" height="180" />
