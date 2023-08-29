@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at gautam@gautamthakur.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://storage.googleapis.com/gautamthakur-resume/Gautam-Thakur-Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="GCP Certifications" src="https://github.com/GautamThakur83/github-images/blob/main/images/gcp-cert.gif?raw=true" align="right" width="180" height="180" />
+<img alt="GCP Certifications" src="https://github.com/GautamThakur83/github-images/blob/main/images/gcp-cert.gif?raw=true" align="right" width="360" height="360" />
 
 ---
 ### 🛠 &nbsp;Tech Stack
