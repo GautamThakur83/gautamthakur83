@@ -1,4 +1,4 @@
-![Gautam Thakur Banner](https://storage.googleapis.com/gautamthakur-resume/gautam-thakur.jpg)
+![Gautam Thakur Banner](https://github.com/GautamThakur83/github-images/blob/main/images/gautam-thakur.jpg?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! 👋 I'm Gautam Thakur</h2>
 
